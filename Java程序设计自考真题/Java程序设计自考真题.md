@@ -941,7 +941,6 @@
 int a = 3;
 int b=2;
 boolean f=(++a==3 && b++==3);System.out.println(a+","+b);
-
 ```
 
 1.  引发ArrayIndexOutOfBoundsException异常的原因是()。
